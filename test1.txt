@@ -3,6 +3,12 @@ I was bron in 1999 december 24.
 i am a student.
 i am very dedicatated person
 here new line added
+<<<<<<< HEAD
 i have compeleted my hsc in 2019
 i will learn javascript programming lanague in few days.
 i can do it .
+=======
+i will learn javascript programming lanague in few days
+i have compeleted my hsc in 2020
+
+>>>>>>> de753ca0e1867778a2df6ccc605f00833052e9bf
